@@ -1,0 +1,38 @@
+{
+    "yellow": [
+"Blue Poogle Notebook",
+"Cheesy Stapler",
+"Commander Garoo Backpack",
+"Dark Battle Duck Notepad",
+"Exercise Book",
+"Hanso Lunchbox",
+"Inky Pen",
+"Jhudora Lunchbox",
+"Kayla Lunch Box",
+"MSPP Notepad",
+"MSPP Pen",
+"Orange JubJub Topper Pencil",
+"Pea Pod Backpack",
+"Pencil of the Earth Faerie",
+"Quiggle Backpack",
+"Razul Crayons",
+"Shenkuu Calligraphy Pen",
+"Techo Master Eraser",
+"Valentine Pencil",
+"Water Faerie Notepad"
+    ],
+    "green": [
+"Asparagus Pen",
+"Bendy Desk Light",
+"Dr Sloth Backpack",
+"Grundo Backpack",
+"Halloween Grundo Notebook",
+"Ilere Crayons",
+"Jhudora Bookmark",
+"Light Faerie Backpack",
+"Moach Eraser",
+"Pencil of Nova",
+"Rainbow Pencil",
+"Strale Eraser"
+    ]
+}
