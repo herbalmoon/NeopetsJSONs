@@ -1,0 +1,37 @@
+{
+    "yellow": [
+"Blue Spiral Seashell",
+"Brown Striped Murex Shell",
+"Camouflage Scallop Shell",
+"Coronet of the Deep",
+"Crimson Spotted Shell",
+"Deep Seashell",
+"Faerie Wings Shell",
+"Lavender Cowry Shell",
+"Maraquan Skeith Maractite Coin",
+"Pink Curly Shell",
+"Shell Clutch",
+"Shell Comb",
+"Sparkly Green Scallop Shell",
+"Spiky Orange Murex Shell"
+    ],
+    "green": [
+"Anklet of the Deep",
+"Blue and Gold Tube Shell",
+"Choker of the Deep",
+"Dazzling Blue Mussel Shell",
+"Diadem of the Deep",
+"Exquisite Peophin Ring of the Deep",
+"Floral Maractite Coin",
+"Golden Koi of the Deep",
+"Golden Shell",
+"Large Maractite Coin",
+"Maraquan Draik Maractite Coin",
+"Matching Pastel Shells",
+"Purple Spiral Shell",
+"Purple Twirly Shell",
+"Rainbow Coloured Shell",
+"Royal Orange Cowry Shell",
+"Streaked Maractite Coin"
+    ]
+}
