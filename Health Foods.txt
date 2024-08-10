@@ -1,0 +1,33 @@
+{
+    "yellow": [
+"Broccoli Kebab",
+"Cheesy Broccoli Bite",
+"Cone-Shaped Strawberry",
+"Fresh Sushi Roll",
+"Harffel Fruit Oatmeal",
+"Honey Bearog",
+"Radish Meringue"
+    ],
+    "green": [
+"Artichoke and Onion Surprise",
+"Artichoke Fondue",
+"Asparagus Pie",
+"Baked Apple with Snowberries",
+"Broccoli and Mustard Sandwich",
+"Broccoli with Sprinkles",
+"Cauliflower Lolly",
+"Cauliflower Shake",
+"Cauliflower Soup",
+"Cheesy Asparagus",
+"Cheesy Carrots",
+"Cone-Shaped Cherry",
+"Cone-Shaped Lemon",
+"Cone-Shaped Orange",
+"Fresh Sushi Cone",
+"Luxury Cabbage Cake",
+"Pickled Cauliflower",
+"Radish and Cheese",
+"Souper Bowl",
+"Tomato Kebab"
+    ]
+}
