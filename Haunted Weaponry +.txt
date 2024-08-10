@@ -1,0 +1,37 @@
+{
+    "yellow": [
+"Amulet of Inevitable Betrayal",
+"Amulet of Lost Souls",
+"Ancient Gnarled Wand",
+"Cloak of the Deep Forest",
+"Dark Longblade Axe",
+"Ghostly Jetsam Sword",
+"Grasped Claw Ring",
+"Haunted Jetsam Shield",
+"Haunted Shield",
+"Helm of Despair",
+"Patched Magic Hat",
+"Rusty Pitchfork",
+"Snot Bomb",
+"Sophies Magic Hat",
+"Sophies Wooden Spoon",
+"Spectral Forest Bow",
+"Spyder Stone Necklace",
+"Sword of the Dead"
+    ],
+    "green": [
+"Amulet of the Unblinking Eye",
+"Bone Sword",
+"Dusty Magic Broom",
+"Ethereal Sword",
+"Glowing Cauldron",
+"Jar of Spiders",
+"Meowclops Claws",
+"Pot of Darkness",
+"Pumpkin Club",
+"Scary Spider",
+"Shadow Axe",
+"Snot Spear",
+"Sophies Elixir"
+    ]
+}
